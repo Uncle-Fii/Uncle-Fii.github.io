@@ -1,12 +1,33 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Raleway:wght@100&display=swap');
 
-*{font-family: 'Poppins', 'sans-serif';}
+*{
+ font-family: 'Poppins', 'sans-serif';
+}
+
 body {
 background-image: url("clockwallpaper.jpg");
+background-size: 200vh;
+background-repeat: no-repeat;
 }
-ul { list-style:none; margin:0; padding:0 }
 
-#clock { font-size:1em; position:absolute
+
+marquee h1{
+color: white;
+}
+
+ul {
+ list-style:none;
+ margin:0; 
+ padding:0 
+}
+
+#clock { 
+ font-size:1em; 
+   /* move clock to center */
+ display: flex;
+ justify-content: center;
+ font-size:1em;
+ position:relative;
 }
 
 #clock .frame-face {
