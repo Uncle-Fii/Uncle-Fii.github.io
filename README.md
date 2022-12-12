@@ -10,9 +10,9 @@ functions simultaneously for easy readability.
 
 
 ## TEAM MEMBERS
-* Felix Adjei-Nkrumah - [github](https://github.com/Uncle-Fii)
-* Princess Selasi Suetor - [github](https://github.com/PrincessSelasi01)
-* Phyllis Naa Akuokor Laryea - [github](https://github.com/26pesewas)
+* Felix Adjei-Nkrumah 
+* Princess Selasi Suetor 
+* Phyllis Naa Akuokor Laryea
 
 ## TECHNOLOGIES USED
 * HTML
