@@ -10,9 +10,9 @@ background-size: 200vh;
 background-repeat: no-repeat;
 }
 
-
 marquee h1{
-color: white;
+  margin-bottom: 5px;
+  color: #000;
 }
 
 ul {
