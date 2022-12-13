@@ -9,7 +9,7 @@
 
 body {
 background-image: url("clockwallpaper.jpg");
-background-size: 200vh;
+background-size: cover;
 background-repeat: no-repeat;
 }
 
@@ -322,6 +322,7 @@ footer{
 .socials a:hover i{
     color: aqua;
 }
+
 
 .footer-bottom p{
    float: left;
