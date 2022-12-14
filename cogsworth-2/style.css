@@ -138,7 +138,7 @@ box-shadow:  5px 5px 7px #d0d0d0,
             -5px -5px 7px #ffffff;
 
 }
-/* @leyframes rule animates the hour, minute and seconds */
+/* @keyframes rule animates the hour, minute and seconds */
 @keyframes hours { to {transform:rotate(335deg)} }
 #clock .hours-hand {
  width:.8em;
